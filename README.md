@@ -41,7 +41,7 @@
     </td>
     <td valign="top" align="center">
       <h2>Overall</h2>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markuslw&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markuslw&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
