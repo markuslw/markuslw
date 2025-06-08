@@ -1,3 +1,7 @@
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=markuslw&rank_icon=github&hide=contribs,prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</div>
+
 ### Languages & markup
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=40 title="C" />
@@ -28,7 +32,16 @@
 <br />
 <br />
 
-### Public repositories
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuslw&langs_count=8&theme=radical" />
-</div>
+### Statistics
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td valign="top" align="center">
+      <h2>Public repos</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuslw&langs_count=8&theme=radical" />
+    </td>
+    <td valign="top" align="center">
+      <h2>Overall</h2>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markuslw&layout=compact" />
+    </td>
+  </tr>
+</table>
