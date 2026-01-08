@@ -33,6 +33,8 @@
 <br />
 
 ### Statistics
+[![Coding Activity](https://wakatime.com/share/@markuslw/4d286e37-b2c6-435b-8589-7ce32ce44cc5.svg)](https://wakatime.com/share/@markuslw/4d286e37-b2c6-435b-8589-7ce32ce44cc5)
+
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td valign="top" align="center">
