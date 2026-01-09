@@ -1,6 +1,7 @@
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=markuslw&rank_icon=github&hide=contribs,prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</div>
+[//]: # (Not working for the moment)
+[//]: # (<div>)
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=markuslw&rank_icon=github&hide=contribs,prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />)
+[//]: # (</div>)
 
 ### Languages & markup
 <div>
@@ -32,18 +33,19 @@
 <br />
 <br />
 
-### Statistics
-[![Coding Activity](https://wakatime.com/share/@markuslw/4d286e37-b2c6-435b-8589-7ce32ce44cc5.svg)](https://wakatime.com/share/@markuslw/4d286e37-b2c6-435b-8589-7ce32ce44cc5)
+### Statistics (since November 2024)
+[![Coding Activity](https://wakatime.com/share/@markuslw/014c0f0f-a495-4ce3-a336-0dc642483753.svg)](https://wakatime.com/share/@markuslw/014c0f0f-a495-4ce3-a336-0dc642483753)
 
-<table cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td valign="top" align="center">
-      <h2>Public repos</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuslw&langs_count=8&theme=radical" />
-    </td>
-    <td valign="top" align="center">
-      <h2>Overall</h2>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markuslw&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+[//]: # (Not working for the moment)
+[//]: # (<table cellspacing="0" cellpadding="0" border="0">)
+[//]: # (  <tr>)
+[//]: # (    <td valign="top" align="center">)
+[//]: # (      <h2>Public repos</h2>)
+[//]: # (      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuslw&langs_count=8&theme=radical" />)
+[//]: # (    </td>)
+[//]: # (    <td valign="top" align="center">)
+[//]: # (      <h2>Overall</h2>)
+[//]: # (      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markuslw&layout=compact&theme=radical" />)
+[//]: # (    </td>)
+[//]: # (  </tr>)
+[//]: # (</table>)
