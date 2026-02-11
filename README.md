@@ -34,7 +34,10 @@
 <br />
 
 ### Statistics (since November 2024)
-[![Coding Activity](https://wakatime.com/share/@markuslw/014c0f0f-a495-4ce3-a336-0dc642483753.svg)](https://wakatime.com/share/@markuslw/014c0f0f-a495-4ce3-a336-0dc642483753)
+[![Coding Activity](https://wakatime.com/share/@markuslw/03c0251e-6e92-4475-bcb3-c6cf5548a879.svg)](https://wakatime.com/share/@markuslw/03c0251e-6e92-4475-bcb3-c6cf5548a879)
+[![Editors](https://wakatime.com/share/@markuslw/e5714a26-970c-4953-bd15-520b725e63d5.svg)](https://wakatime.com/share/@markuslw/e5714a26-970c-4953-bd15-520b725e63d5)
+[![OS](https://wakatime.com/share/@markuslw/e6cdc8b3-4e0b-48b9-921d-1b91dee84cd8.svg)](https://wakatime.com/share/@markuslw/e6cdc8b3-4e0b-48b9-921d-1b91dee84cd8)
+[![Category](https://wakatime.com/share/@markuslw/e5aa363e-6a4c-4d28-9200-d961d480f432.svg)](https://wakatime.com/share/@markuslw/e5aa363e-6a4c-4d28-9200-d961d480f432)
 
 [//]: # (Not working for the moment)
 [//]: # (<table cellspacing="0" cellpadding="0" border="0">)
